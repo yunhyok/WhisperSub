@@ -1,0 +1,8 @@
+faster-whisper>=1.1
+ctranslate2>=4.5
+av>=12
+numpy>=1.26
+onnxruntime>=1.17
+PySide6-Essentials>=6.6
+nvidia-cublas-cu12; sys_platform == "win32"
+nvidia-cudnn-cu12; sys_platform == "win32"

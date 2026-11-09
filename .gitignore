@@ -1,0 +1,15 @@
+.venv/
+venv/
+build/*/
+!build/whispersub.spec
+!build/installer.iss
+dist/
+__pycache__/
+*.pyc
+*.spec.bak
+*.log
+assets/preview_sheet.png
+testclip/
+*.log
+cli_test.log
+build/version.txt
